@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: allegro_hand_description
+    relative_path: allegro_hand_description_right.urdf
+  SRDF:
+    relative_path: config/allegro_hand_right.srdf
+  CONFIG:
+    generated_timestamp: 1411634202
